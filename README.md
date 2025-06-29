@@ -12,6 +12,9 @@ This repository contains Java code solutions and supporting documentation for va
 - **Design Pattern/**  
   Includes Java implementations of design patterns such as Factory Method and Singleton.
 
+- **PL/SQL/**
+  Contains Solutions for PL/SQL Exercises.
+
 - **Word doc Solutions/**  
   Word documents containing code explanations, analysis, and output screenshots for reference.
 
